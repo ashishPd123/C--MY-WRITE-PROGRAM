@@ -10,7 +10,7 @@ int main()
 	return 0;
 }
 
-//SECOND PROGRAM(2)
+//SECOND PROGRAM(2)))
 
 #include<stdio.h>
 int main()
